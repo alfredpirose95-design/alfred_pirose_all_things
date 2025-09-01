@@ -1,7 +1,8 @@
 // Добавляем сюда свои игры с Яндекс Игр
 const games = [
-    { name: "Игра 1", url: "https://yandex.ru/games/app/12345" },
-    { name: "Игра 2", url: "https://yandex.ru/games/app/67890" },
+    { name: "Нарезка", url: "https://yandex.ru/games/app/217734" },
+    { name: "Кликер(нет)-сёрф", url: "https://yandex.ru/games/app/461717" },
+    { name: "Кран", url: "https://yandex.ru/games/app/353026" },
     // Можно добавлять сколько угодно игр
 ];
 
